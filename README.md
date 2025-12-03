@@ -2,7 +2,6 @@
 
 # PolyForge 3D Editor
 
-![PolyForge Screenshot](https://user-images.githubusercontent.com/12345678/1234567890-example-screenshot.png)  
 *A lightweight, beautiful, single-file 3D scene editor powered by Three.js — no installation required.*
 
 
